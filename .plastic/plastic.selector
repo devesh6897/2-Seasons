@@ -1,0 +1,4 @@
+repository "Bubble 2025-01-24_19-11-57/Bubble@13469185681893@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/sarvaghya/Scene 1 Final.unity
+    guid: 1afb81ab3f79e58468669a211cc4241d
+  - enabled: 1
+    path: Assets/Scenes/sarvaghya/Scene 2 final.unity
+    guid: 6622b7350475c6740b8b065ba8b9aba3
+  - enabled: 1
+    path: Assets/Scenes/sarvaghya/sarvaghya MAIN UPDATED.unity
+    guid: 96c56c29d687e8c48b50730a58d6d29e
+  - enabled: 1
+    path: Assets/Scenes/sarvaghya/Game Over.unity
+    guid: 8e3ccc8ef438a614088f7cd9aa590c24
+  m_configObjects: {}
